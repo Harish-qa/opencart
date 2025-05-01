@@ -1,0 +1,8 @@
+12:28:42.525 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:28:43.581 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:37:20.356 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+13:01:10.493 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\grouping.xml"
+13:04:26.168 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\grouping.xml"
+13:16:39.190 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\grouping.xml"
+17:53:20.473 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\grouping.xml"
+18:22:55.839 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\grouping.xml"

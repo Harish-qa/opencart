@@ -1,0 +1,35 @@
+22:37:12.580 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+22:37:12.868 [main] ERROR testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:31)oggger - Test failed
+22:37:12.869 [main] DEBUG testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:32)oggger - debug.........
+22:39:45.338 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+22:39:45.471 [main] ERROR testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:31)oggger - Test failed
+22:39:45.473 [main] DEBUG testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:32)oggger - debug.........
+13:43:46.305 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+13:43:47.730 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+13:43:55.624 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+13:43:56.828 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+13:45:20.732 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+13:45:21.818 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+13:45:29.226 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+13:45:30.223 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+13:53:53.609 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+13:53:55.483 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+13:54:03.765 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+13:54:04.767 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+15:41:08.769 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+15:41:10.060 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+15:41:17.197 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+15:41:18.778 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+16:03:41.665 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+16:03:43.332 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+16:49:50.071 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+16:49:50.949 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+11:19:23.707 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+11:22:33.699 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+12:14:33.142 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\opencart\master.xml"
+12:14:45.650 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:14:47.204 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:14:52.719 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:14:53.788 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:28:36.647 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:28:37.913 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register

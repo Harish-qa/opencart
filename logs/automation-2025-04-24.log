@@ -1,0 +1,35 @@
+11:52:39.251 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+11:52:39.322 [main] ERROR testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:31)oggger - Test failed
+11:52:39.322 [main] DEBUG testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:32)oggger - debug.........
+12:05:29.465 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:05:30.401 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:05:36.300 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:05:37.333 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:07:01.082 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:07:01.962 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:07:08.371 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:07:10.206 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:09:11.891 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:09:13.020 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:09:18.897 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:09:20.006 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:29:09.030 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:29:10.376 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:29:18.058 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:29:18.990 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:29:53.120 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:29:53.892 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:29:58.847 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:29:59.815 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:30:58.679 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:30:59.450 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:31:05.235 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:31:08.762 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+12:32:30.575 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+12:32:31.653 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+12:32:38.014 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+12:32:38.822 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+19:20:31.458 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+19:20:32.422 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+19:21:24.820 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+19:21:25.725 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register

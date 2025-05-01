@@ -1,0 +1,31 @@
+13:12:48.983 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:50)oggger - -------------------------------------------------------------------logout
+13:12:49.006 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:12:52.627 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:12:56.021 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
+13:13:06.071 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:50)oggger - -------------------------------------------------------------------logout
+13:13:06.076 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:13:09.639 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:13:13.021 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
+13:13:23.089 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:50)oggger - -------------------------------------------------------------------logout
+13:13:23.100 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:13:26.740 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:13:30.163 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
+13:13:40.234 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:13:43.819 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:13:47.215 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
+13:13:57.291 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:50)oggger - -------------------------------------------------------------------logout
+13:13:57.298 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:14:00.820 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:14:04.222 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
+13:14:14.270 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:50)oggger - -------------------------------------------------------------------logout
+17:56:40.432 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+17:56:41.421 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+17:56:44.866 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+17:56:45.584 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+18:03:21.468 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+18:03:22.265 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+18:03:57.093 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:15)oggger - ***********start---------------------------
+18:03:58.029 [main] INFO  testcases.TC_002login.accountlogin(TC_002login.java:20)oggger - *************login=====================
+14:39:14.322 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start
+14:39:15.240 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:22)oggger -  ********************************* register
+14:41:19.916 [main] INFO  testcases.TC_001accountregister.verifyaccountpage(TC_001accountregister.java:17)oggger - **********************************start

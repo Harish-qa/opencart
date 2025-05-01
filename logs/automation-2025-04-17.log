@@ -1,0 +1,26 @@
+13:12:13.825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:13.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:13.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:13.925 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:13.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:14.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:14.010 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:14.013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:14.074 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:14.076 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:14.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:14.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:14.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:14.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:14.188 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:14.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:14.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:14.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:12:14.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:12:14.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:12:14.338 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:12:18.356 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:12:21.810 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
+13:12:31.894 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:14)oggger - -------------------------------------------------------------------Homepage
+13:12:35.476 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:19)oggger - -------------------------------------------------------------------Login
+13:12:38.922 [main] INFO  testcases.Tc_003LoginDDT.loginDDT(Tc_003LoginDDT.java:25)oggger - -------------------------------------------------------------------My Account
